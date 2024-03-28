@@ -12,16 +12,17 @@ This project is about building an autonomous robot that can navigate its environ
 ## Components
 
 - Arduino Uno or any compatible microcontroller
-- H-Bridge motor driver (e.g., L298N)
+- Robot Chasis/Frame
+- TB6612FNG Motor Driver
 - Ultrasonic sensor (HC-SR04)
 - Servo motor
-- 2 DC motors with wheels
+- 4 DC motors with wheels
 - Breadboard and jumper wires
 - Power supply (battery)
 
 ## Circuit Diagram
 
-[Include a circuit diagram here or link to an external resource]
+![Obstacle Avoiding Robot](assets/Circuitdiagram.jpg "Circuit Diagram")
 
 ## Setup and Installation
 
@@ -33,6 +34,9 @@ This project is about building an autonomous robot that can navigate its environ
 ## Usage
 
 After uploading the code to the Arduino, power the robot with a battery. The robot will start moving forward, automatically avoiding obstacles by changing directions.
+
+## Robot in Action
+
 
 ## Contributing
 
