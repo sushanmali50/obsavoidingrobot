@@ -26,7 +26,8 @@ This project is about building an autonomous robot that can navigate its environ
 
 ##The Assembled Robot
 
-![Obstacle Avoiding Robot](assets/picture.jpg "picture")
+![picture](https://github.com/sushanmali50/obsavoidingrobot/assets/145068266/4a5fd53c-4196-4459-a2ee-d86fe14216d6)
+
 
 ## Setup and Installation
 
