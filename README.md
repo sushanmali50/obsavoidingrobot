@@ -36,9 +36,9 @@ This project is about building an autonomous robot that can navigate its environ
 After uploading the code to the Arduino, power the robot with a battery. The robot will start moving forward, automatically avoiding obstacles by changing directions.
 
 ## Robot in Action
+https://github.com/sushanmali50/obsavoidingrobot/assets/145068266/4c83b35c-2fa3-4d2c-b97a-76c849a235f7
 
 
 ## Contributing
-
 Feel free to fork the project and submit pull requests if you have suggestions for improvements or new features.
 
