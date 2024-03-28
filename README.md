@@ -24,6 +24,10 @@ This project is about building an autonomous robot that can navigate its environ
 
 ![Obstacle Avoiding Robot](assets/Circuitdiagram.jpg "Circuit Diagram")
 
+##The Assembled Robot
+
+![Obstacle Avoiding Robot](assets/picture.jpg "picture")
+
 ## Setup and Installation
 
 1. **Assemble the Robot:** Follow the circuit diagram to connect the motors, ultrasonic sensor, and servo motor to the Arduino board.
