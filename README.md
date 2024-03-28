@@ -21,7 +21,7 @@ This project is about building an autonomous robot that can navigate its environ
 
 ## Circuit Diagram
 
-[Include a circuit diagram here or link to an external resource]
+![Obstacle Avoiding Robot](assets/Circuitdiagram.jpg "Circuit Diagram")
 
 ## Setup and Installation
 
